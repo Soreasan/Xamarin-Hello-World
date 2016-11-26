@@ -1,0 +1,18 @@
+dyld: warning: could not load inserted library '/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/monotouch-fixes.dylib' because no suitable image found.  Did find:
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/monotouch-fixes.dylib: required code signature missing for '/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/monotouch-fixes.dylib'
+
+objc[1219]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x116eb4b60) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/AVConference.framework/AVConference (0x116def3c8). One of the two will be used. Which one is undefined.
+objc[1219]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x11384b998) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x113670d38). One of the two will be used. Which one is undefined.
+2016-11-26 09:20:14.801 DEBUG CalabashServer:252 | Creating the server: <LPHTTPServer: 0x6080001448e0>
+2016-11-26 09:20:14.801 DEBUG CalabashServer:253 | Calabash iOS server version: CALABASH VERSION: 0.20.3
+2016-11-26 09:20:14.801 DEBUG CalabashServer:256 | App Base SDK: iphonesimulator10.1
+2016-11-26 09:20:14.801 DEBUG CalabashServer:288 | IPHONE_SIMULATOR_ROOT: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk
+2016-11-26 09:20:14.810 DEBUG CalabashServer:274 | Calabash iOS server is listening on: 192.168.2.104 port 37265
+2016-11-26 09:20:14.843 DEBUG LPWKWebViewRuntimeLoader:221 | WKWebView successfully implemented LPWebViewProtocol
+2016-11-26 09:20:14.901 HelloWorld.iOS[1219:74955] Xamarin.iOS: Could not get shared memory id: No such file or directory
+2016-11-26 09:20:14.901 HelloWorld.iOS[1219:74955] Xamarin.iOS: Added IP to look for the IDE: 127.0.0.1
+2016-11-26 09:20:14.901 HelloWorld.iOS[1219:74955] Xamarin.iOS: IDE Port: 55266 Transport: WiFi
+2016-11-26 09:20:14.902 HelloWorld.iOS[1219:74955] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:55266: Connection refused
+2016-11-26 09:20:14.902 HelloWorld.iOS[1219:74909] Xamarin.iOS: Debugger not loaded (disabled).
+2016-11-26 09:20:14.904 HelloWorld.iOS[1219:74909] Xamarin.iOS: Profiler not loaded (disabled)
+2016-11-26 09:20:14.985 HelloWorld.iOS[1219:74909] Xamarin.iOS: Added dllmap for objc_msgSend
