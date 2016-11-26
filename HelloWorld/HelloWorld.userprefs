@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{3327B70D-2911-4867-86DD-01B370E92163}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/HelloWorld.cs">
+    <Files>
+      <File FileName="HelloWorld/HelloWorld.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17BE1C4B-4049-4C70-BABF-7E64EF78D6C5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
